@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Youtube Channel"
+title: "Youtube (coming soon)"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,11 +9,9 @@ redirect_from:
 
 <div class="card">
     <div class="content">
-        <h2>🎥 My YouTube Channel (Coming Soon)</h2>
-        <p>Welcome to my YouTube channel, where I explore Personal Development, AI, Machine Learning, and Travel Vlogs.</p>
-        <p>Stay tuned for insightful content, tutorials, and discussions.</p>
-        <p>Subscribe now</p>
         <img src="images/image1.png" alt="YouTube Preview" style="max-width:100%; border-radius:10px;" class="image">
+        <p>Welcome to my YouTube channel, where I explore Personal Development, AI, Machine Learning, and Travel Vlogs.</p>
+        <p>Subscribe now</p>
     </div>
 </div>
 
