@@ -13,7 +13,7 @@ redirect_from:
         <p>Welcome to my YouTube channel, where I explore Personal Development, AI, Machine Learning, and Travel Vlogs.</p>
         <p>Stay tuned for insightful content, tutorials, and discussions.</p>
         <p>Subscribe now</p>
-        <img src="images/IMG_5593.JPG" alt="YouTube Preview" style="max-width:100%; border-radius:10px;" class="image">
+        <img src="images/image1.png" alt="YouTube Preview" style="max-width:100%; border-radius:10px;" class="image">
     </div>
 </div>
 
