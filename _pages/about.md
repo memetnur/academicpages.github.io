@@ -7,27 +7,23 @@ redirect_from:
   - /about.html
 ---
 
+
 <div class="card">
     <div class="content">
         <img src="images/image1.png" alt="YouTube Preview" style="max-width:100%; border-radius:10px;" class="image">
-        <p>Welcome to my YouTube channel, where I explore Personal Development, AI, Machine Learning, and Travel Vlogs.</p>
-        <p>Subscribe now</p>
+        <p>Hi, you will find all what Ive learned and experienced into my weekly YouTube Vlogs or Podcasts (starting from 1.03.2025 inshallah), Its all about what I like: ANIME, FOOD, GEN AI, TECH, TRAVEL, idk. why being specific? when THERE IS SO MUCH I LOVE ,cry me a river, Justing T. 
+
+        You wanna talk?</p>
+        <p>[**Book a Call**](https://cal.com/memetnur){: .btn .btn-primary}</p>
     </div>
 </div>
 
 Services
 ======
 
-I am an experienced **AI Engineer & Consultant**, specializing in Machine Learning, NLP, and AI-driven automation.  
-I help businesses and individuals integrate AI solutions to improve efficiency and productivity.  
+I hold an Master of Science in CS (Switzerland) and currently coaching more than 10 Women and Girls in the field of **ML; NLP; AI; TECH, BIO; LOVE; FAMILY; SWISS, STARTUP, ENTREPRENEURSHIP**.
 
-**Expertise:**  
-- AI Strategy & Consulting  
-- Large Language Models (LLMs) & Generative AI  
-- AI Automation & Chatbot Development   
-
-Want to discuss your AI project or need expert guidance?  
-Click the button below to book a **1-on-1 AI Consultation Call** with me!  
+You like to get a consulting with me? hmmmm, lets a have a call to check what I can do for you.    
 
 [**Book a Call**](https://cal.com/memetnur){: .btn .btn-primary}
 
